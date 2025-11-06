@@ -1,0 +1,92 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+
+# Virtual environments
+env/
+venv/
+.venv/
+ENV/
+env.bak/
+venv.bak/
+
+# Distribution / packaging
+build/
+dist/
+*.egg-info/
+*.egg
+.eggs/
+*.whl
+
+# PyInstaller
+*.manifest
+*.spec
+
+# Unit test / coverage reports
+.pytest_cache/
+.coverage
+.coverage.*
+htmlcov/
+.tox/
+*.cover
+
+# Logs
+*.log
+pip-log.txt
+
+# Output directories (generated frames and sprites)
+output/
+output_folder/
+frames/
+sprites/
+extracted_frames/
+
+# Video files (can be large, usually not committed)
+*.mp4
+*.mpeg
+*.avi
+*.mov
+*.flv
+*.wmv
+*.mkv
+*.webm
+*.m4v
+
+# Generated image files in output
+*.png.tmp
+*.jpg.tmp
+
+# IDE and editors
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.project
+.pydevproject
+
+# OS specific
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+Desktop.ini
+
+# Jupyter Notebook
+.ipynb_checkpoints/
+
+# Environment variables
+.env
+.env.local
+
+# mypy
+.mypy_cache/
+.dmypy.json
+dmypy.json
+
