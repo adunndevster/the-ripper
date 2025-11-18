@@ -132,3 +132,4 @@ After generating your transparent PNGs, you can:
 3. Create GIF animations with transparency
 4. Use them in video compositing software
 
+
